@@ -1,1 +1,1 @@
-# M2_Embedded_Automatic_Crop_-_Soil_Preventive_System
+# M2_Embedded_Automatic_Crop_and_Soil_Preventive_System
